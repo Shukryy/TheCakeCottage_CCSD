@@ -1,37 +1,40 @@
-**The Cake Cottage** 🍰
+# **The Cake Cottage** 🍰
 
-E-commerce Website for CCSD Project
+**E-commerce Website for CCSD Project**
 
-The Cake Cottage is a Java-based e-commerce platform for an online cake store. 
-This project supports two types of users: Customers and Admins. 
-Customers can browse and purchase cakes, while Admins can manage products.
+The **Cake Cottage** is a Java-based e-commerce platform designed for an online cake store. This project supports two types of users: **Customers** and **Admins**. Customers can browse, purchase cakes, and manage their orders, while Admins have full control to manage product listings, including adding, editing, and deleting cakes.
 
-🛠 **Tech Stack**
+## 🛠 **Tech Stack**
 
-Frontend: Bootstrap, HTML, CSS, JavaScript (JSP for server-side rendering)
+- **Frontend**: Bootstrap, HTML, CSS, JavaScript (JSP for server-side rendering)
+- **Backend**: Java (JSP/Servlets)
+- **Database**: MySQL
+- **Tools**: NetBeans, phpMyAdmin, XAMPP
 
-Backend: Java (JSP/Servlets)
+## ⚙️ **Features**
 
-Database: MySQL
+### Customer Features:
+- **Browse Cakes**: View all available cakes, with the option to search by type, price, and popularity.
+- **Product Details**: Customers can click on individual cakes to see detailed descriptions, ingredients, and images.
+- **Add to Cart**: Select cakes to add to the shopping cart and manage quantities.
+- **Checkout & Orders**: Complete the purchase process by placing orders, providing customer information, and selecting payment options.
 
-Tools: NetBeans, phpMyAdmin, XAMPP
+### Admin Features:
+- **Manage Products**: Admins can add new cakes, edit existing product details, or remove cakes from the store.
+- **Inventory Management**: Admins can track the availability of cakes and update stock levels.
+- **Order Management**: Admins can view orders placed by customers and change order status (e.g., pending, processed, shipped).
 
-⚙️ **Features**
-
-Customer Features:
-- Browse and search cakes
-- View product details and add to cart
-- Checkout and place orders
-
-Admin Features:
-- Manage product listings (add, edit, delete cakes)
-
-🚀 **Getting Started**
+## 🚀 **Getting Started**
 
 Follow these steps to set up the project locally:
 
-Prerequisites
+### Prerequisites:
+- **NetBeans IDE**: For project development and building the application.
+- **XAMPP**: To provide the MySQL database server and Apache server for running the project.
+- **phpMyAdmin**: To manage and interact with the MySQL database.
 
-- NetBeans IDE - for project development
-- XAMPP - for MySQL database server
-- phpMyAdmin - to manage the database
+### Installation Steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/the-cake-cottage.git
