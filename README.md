@@ -14,7 +14,7 @@ The **Cake Cottage** is a Java-based e-commerce platform designed for an online 
 ## ⚙️ **Features**
 
 ### Customer Features:
-- **Browse Cakes**: View all available cakes, with the option to search by type, price, and popularity.
+- **Browse Cakes**: View all available cakes
 - **Product Details**: Customers can click on individual cakes to see details.
 - **Add to Cart**: Select cakes to add to the shopping cart and manage quantities.
 - **Checkout & Orders**: Complete the purchase process by placing orders, providing customer information, and selecting payment options.
